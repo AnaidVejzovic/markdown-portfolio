@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Music
+  -Rap
+  -EDM
+  -Music Production
+- Fitness
+- Programming
