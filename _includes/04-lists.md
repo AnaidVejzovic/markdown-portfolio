@@ -1,6 +1,6 @@
 - Music
-  -Rap
-  -EDM
-  -Music Production
+   - Rap
+   - EDM
+   - Music Production
 - Fitness
 - Programming
